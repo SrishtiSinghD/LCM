@@ -29,3 +29,4 @@ def lcm(a,b):
         x=x*i
     return(x)
 lcm(12,14) 
+
